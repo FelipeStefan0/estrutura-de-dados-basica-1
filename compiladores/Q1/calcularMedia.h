@@ -1,0 +1,1 @@
+double calcularMedia(int[], int);
