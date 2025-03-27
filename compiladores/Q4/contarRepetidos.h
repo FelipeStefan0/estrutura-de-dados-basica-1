@@ -1,0 +1,1 @@
+int contarRepetidos(int[], int);
