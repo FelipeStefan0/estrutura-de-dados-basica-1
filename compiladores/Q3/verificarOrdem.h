@@ -1,0 +1,1 @@
+bool verificarOrdem(int[], int);
